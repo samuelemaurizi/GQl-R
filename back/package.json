@@ -1,5 +1,5 @@
 {
-  "name": "restapi_prj",
+  "name": "graphql_prj",
   "version": "1.0.0",
   "description": "understanding the REST API",
   "main": "app.js",
