@@ -23,6 +23,6 @@
     "nodemon": "^1.19.4",
     "socket.io": "^2.3.0",
     "uuid": "^3.4.0",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   }
 }
